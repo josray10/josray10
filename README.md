@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josray10
-- 👀 I’m interested in game development and mathematics
-- 🌱 I’m currently learning python oop
+- 👀 I’m interested in web development, game development and mathematics
+- 🌱 I’m currently learning next.js and nest.js
 - 📫 How to reach me, instagram: @joss.saragih linkedin: https://www.linkedin.com/in/jossy-raya-gopasda-saragih-a0b456150
 
 <!---
